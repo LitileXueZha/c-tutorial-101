@@ -12,3 +12,10 @@
 4. 入门。小白还是算了，起码要有一定的计算机常识和无聊的时间
 
 该劝退的说完了，言归正传。
+
+## 目录
+
+||标题|文件名|
+|-|-|-|
+|00|前提条件|[00-Prerequisites.md](00-Prerequisites.md)|
+|01|Hello world 示例|[01-hello-world.c](01-hello-world.c)|
