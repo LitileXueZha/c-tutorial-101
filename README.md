@@ -19,3 +19,10 @@
 |-|-|-|
 |00|前提条件|[00-Prerequisites.md](00-Prerequisites.md)|
 |01|Hello world 示例|[01-hello-world.c](01-hello-world.c)|
+|02|变量和数据类型|[02-variables-data-types.c](02-variables-data-types.c)|
+
+## 参考链接
+
+- (英) https://www.tutorialspoint.com/cprogramming/
+- https://wangdoc.com/clang
+- (英) https://tmewett.com/c-tips/
